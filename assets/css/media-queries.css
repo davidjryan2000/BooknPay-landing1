@@ -102,7 +102,7 @@ only screen and (                min-resolution: 2dppx) {
 	
 	/* logo */
     .navbar-brand {
-    	background-image: url(../img/BBnP.png) !important; background-repeat: no-repeat !important; background-size: 97px 29px !important;
+    	background-image: url(../img/BBNP.png) !important; background-repeat: no-repeat !important; background-size: 97px 29px !important;
     }
 	
 }
